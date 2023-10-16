@@ -1,3 +1,3 @@
 https://github.com/dabin-Ryu/OSS-Midterm-Q1.git
 
-print('안녕')
+print('안녕하세요')
